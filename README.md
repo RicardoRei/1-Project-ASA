@@ -3,4 +3,15 @@
 
 grade: 20/20
 
-the project consists in the implementation of a BFS algorithm in C language.
+## Description
+The project consists in the implementation of a BFS algorithm in C language. For more info you can consult file p1.pdf.
+
+## Analysis
+In file relatorioP1.pdf you can find our analysis to the algorithm in the context of this project.
+
+## Run
+gcc -ansi -Wall -pedantic -o project BFSalgorithm.c
+
+./project
+
+Now you just need to insert the commands specified in p1.pdf
